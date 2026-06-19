@@ -7,3 +7,4 @@
 '''bash
 javac src/SnakesLadders.java
 java -cp src SnakesLadders
+Updated from GitHub
